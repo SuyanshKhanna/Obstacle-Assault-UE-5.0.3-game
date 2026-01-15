@@ -15,9 +15,13 @@ This project was created as a learning-focused Unreal Engine project, covering c
 - Win condition when reaching the final stage
 - Simple visual feedback for game completion
 
-- <img width="1590" height="779" alt="image" src="https://github.com/user-attachments/assets/c539300e-37d0-409b-8d39-7b7e8aab7abc" />
-<img width="1590" height="779" alt="Screenshot 2026-01-15 175918" src="https://github.com/user-attachments/assets/2fc15b4f-762e-45fd-a8c4-fbdbe492f292" />
-<img width="1590" height="779" alt="Screenshot 2026-01-15 175918" src="https://github.com/user-attachments/assets/0bf9605b-b5f3-4e3c-b875-a9cbe7aa8db3" />
+<img width="1590" height="779" alt="image" src="https://github.com/user-attachments/assets/bc0f159b-ae1d-472b-8f45-5c6b4794fb2f" />
+<img width="1588" height="780" alt="Screenshot 2026-01-15 175823" src="https://github.com/user-attachments/assets/c447510d-6929-49ba-b606-9e0ae5dea7e9" />
+![gameplay](https://github.com/user-attachments/assets/5bb23519-6af2-4e71-a3a0-44bd746b8449)
+
+
+
+
 
 ---
 
@@ -41,11 +45,11 @@ This project was created as a learning-focused Unreal Engine project, covering c
 
 ## 📁 Project Structure
 ObstacleAssault/
-├── Content/ # Game assets, levels, Blueprints
-├── Config/ # Project configuration files
-├── Source/ # C++ source files (if applicable)
-├── ObstacleAssault.uproject
-└── README.md
+   Content/ # Game assets, levels, Blueprints
+   Config/ # Project configuration files
+   Source/ # C++ source files (if applicable)
+   ObstacleAssault.uproject
+README.md
 
 
 ---
@@ -83,7 +87,7 @@ File → Package Project → Windows → Windows (64-bit)
 
 ---
 
-## 👤 Author
+##  Author
 **Suyansh Khanna**
 
 This project was built as part of learning Unreal Engine and game development fundamentals.
